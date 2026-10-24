@@ -1,28 +1,23 @@
-# AI-Powered Gift Recommendation App
-
-## Project Overview
-
-This project is a **single-page web application** powered by **ChatGPT** that interacts with users through a smart question-answer flow to recommend personalized gift ideas dynamically. The product suggestions are monetized using **Amazon Affiliate links**, offering a seamless and ad-free user experience. The app is designed to be **100% private**, with no user accounts or data storage, ensuring a simple, intuitive, and secure interaction.
-
-### Key Features:
-- **Conversational Flow**: A smart question-answer flow powered by **ChatGPT** to help users find the perfect gift.
-- **Dynamic Product Recommendation**: AI-driven product suggestions based on user responses.
-- **Amazon Affiliate Integration**: All product links are embedded with an Amazon Affiliate code to monetize the recommendations.
-- **No User Data or Login**: The app focuses on user privacy with no login or account setup required.
-- **Reset Option**: Users can restart the flow to try the quiz again.
-- **Clean & Minimal UI**: Built with **React** and styled using **Tailwind CSS** for a fast and responsive design.
+<h1 align="center">🎁 AI-Powered Gift Recommendation App</h1>
+<p align="center"><img src="https://img.shields.io/badge/Python-LLM-3776AB?style=for-the-badge&logo=python"/><img src="https://img.shields.io/badge/AI-Gift%20Finder-00b39e?style=for-the-badge"/></p>
+<p align="center">An AI-powered gift recommendation engine that suggests personalised, thoughtful gifts based on recipient profile, occasion, budget, and preferences.</p>
 
 ---
+## ✨ Features
+- Recipient profiling (age, interests, relationship)
+- Occasion-specific recommendations
+- Budget filtering
+- Personalised reasoning per suggestion
+- Multiple gift options with purchase links
 
-## Table of Contents
+## 🚀 Getting Started
+```bash
+git clone https://github.com/Ramisa-16/AI-Powered-Gift-Recommendation-App.git
+pip install -r requirements.txt && python main.py
+```
+## 🛠️ Tech Stack
+**Python** · **LLM** · **React** · **Recommendation Engine**
 
-1. [Installation](#installation)
-2. [Features](#features)
-3. [How It Works](#how-it-works)
-4. [API & Tools](#api--tools)
-5. [Project Structure](#project-structure)
-6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
-
----
+## 👩‍💻 Author
+**Ramisa Sharar Nidhi** — AI Developer @ Betopia Group
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramisashararnidhi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ramisashararnidhi)
